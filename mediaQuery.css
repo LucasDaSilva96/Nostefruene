@@ -1,0 +1,120 @@
+/* **************************** GUIDE - LINE *********************************** */
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {...} */
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */
+
+/* ******************************************************************************* */
+
+.meny-btn-list {
+  display: none;
+}
+
+@media (max-width: 1340px) {
+  .shop-grid-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (min-width: 1030px) {
+  .nav-ul {
+    display: inline-flex;
+  }
+}
+
+@media (max-width: 1030px) {
+  nav {
+    position: relative;
+  }
+
+  .meny-btn-list {
+    display: block;
+  }
+
+  .blogg-boxes-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 992px) {
+  .hero-img {
+    width: 35rem;
+    height: 35rem;
+  }
+
+  .hero-container {
+    gap: 1rem;
+  }
+
+  .hero-text {
+    font-size: 18px;
+    letter-spacing: 0.7px;
+    line-height: 1.2;
+    text-align: start;
+  }
+
+  .hero-btn-container {
+    margin-top: 0rem;
+    gap: 1.5rem;
+    width: 35rem;
+  }
+}
+
+@media (max-width: 930px) {
+  .hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-text-container {
+    width: 70%;
+  }
+
+  .ta-kontakt-container-grid {
+    display: flex;
+  }
+}
+
+@media (max-width: 768px) {
+  .ta-kontakt-img-div {
+    display: none;
+  }
+
+  .ta-kontakt-form-div {
+    min-width: 33rem;
+  }
+  .shop-box-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 540px) {
+  .blogg-box {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 490px) {
+  .map {
+    width: 25rem;
+  }
+}
