@@ -1,6 +1,5 @@
 # Title: Nøstefruene AS, The best yarn-store in Elverum/Norway.
 
-#### Video Demo: URL[https://youtu.be/aUyyzwcSnQ0]
 
 ## Purpose of the project
 
@@ -52,9 +51,6 @@ No installation is required for the Nøstefruene AS website as it is a static we
 
 This project is currently maintained by the programmer/creater of the website and is not open for external contributions at this time.
 
-## License
-
-The Nøstefruene AS website is released under the [Netlify], which allows for free usage.
 
 ## Contact Information
 
