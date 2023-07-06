@@ -1,7 +1,7 @@
 # Title: Nøstefruene AS, The best yarn-store in Elverum/Norway.
 
 ## Live-Code:
-https://lucasdasilva96.github.io/Nostefruene/
+https://lucasdasilva96.github.io/Nostefruene/index.html
 
 ## Purpose of the project
 
