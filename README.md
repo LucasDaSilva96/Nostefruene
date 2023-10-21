@@ -5,7 +5,7 @@ https://lucasdasilva96.github.io/Nostefruene/index.html
 
 ## Purpose of the project
 
-This is a webpage designed to showcase a local yarn store here in Norway and encourage the local community to visit them and also by
+This is a webpage designed to showcase a local yarn store here in Norway and encourage the local community to visit them and also buy
 their products.
 This webpage is provided with the address, phone number, and a form that customers can send email directly to the store's email-account. I have also included a map
 and directions to make it convenient for customers to find and get in contact with the store.
